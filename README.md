@@ -1,7 +1,12 @@
-### Hello 🍃 
-### I'm Tiancheng 🌿
+## Hello, I'm Tiancheng 🌿
 
-🍃🌿🌙☔🌘
+### 🍃 Who
+MSDS student at [NYUCDS](https://cds.nyu.edu/masters-program/)
 
-#### Feel free to reach out at tl2546@nyu.edu
+### 🌙 Where
+Feel free to reach out at:
+- Email: [tl2546@nyu.edu](mailto:tl2546@nyu.edu)
+- LinkedIn: [Tiancheng Li](https://www.linkedin.com/in/tianchengli-tc/)
 
+<!-- POEM_START --> 
+<!-- POEM_END -->
