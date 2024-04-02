@@ -1,5 +1,7 @@
-### Hello, I'm Tiancheng
+### Hello, 
+### I'm Tiancheng 🌿
 
-#### Welcome to my GitHub Profile!
+🍃☔🌙
 
+Feel free to reach out at tl2546@nyu.edu
 
