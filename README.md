@@ -9,6 +9,9 @@ Feel free to reach out at:
 - LinkedIn: [Tiancheng Li](https://www.linkedin.com/in/tianchengli-tc/)
 - Contact Form: [tli2958.github.io](https://tli2958.github.io/home/)
 
+### :umbrella: Work
+- [DL projects](https://github.com/TLI2958/DL_models)
+- [NLP projects](https://github.com/TLI2958/NLU_project)
 <!-- POEM_START --> 
 <!-- POEM_END -->
 
