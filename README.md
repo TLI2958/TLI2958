@@ -11,6 +11,7 @@ Feel free to reach out at:
 
 ### :umbrella: Work
 - [DL projects](https://github.com/TLI2958/DL_models)
+- [Scraper & Parser](https://github.com/TLI2958/scrapfly-scrapers)
 - [NLP projects](https://github.com/TLI2958/NLU_project)
 <!-- POEM_START --> 
 <!-- POEM_END -->
